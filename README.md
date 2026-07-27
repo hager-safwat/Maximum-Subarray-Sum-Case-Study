@@ -6,7 +6,7 @@ analysing their time complexity.
 
 ## Contents
 - `brute_force.py` — brute-force implementation.
-- `explain_the_approaches-2.pdf` — write-up comparing the approaches.
+- `explain_the_approaches-2.pdf` — 5 diffrent types of approaches.
 - `Advanced Algorithm Reoprt.pages` — full report.
 
 ## Note
